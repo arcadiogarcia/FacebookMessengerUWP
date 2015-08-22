@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEARCADIOW</Machine>
+    <WindowsUser>49pym</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9a749701-e9f4-4a61-af40-8755507bde44</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4319FDDF4E0B11144ECC976FF28FDC2BFBEC73AC6D2530F6FA86590DD06AA00C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a749701-e9f4-4a61-af40-8755507bde44_1.0.0.0_neutral__kmkw1nvan8826</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a749701-e9f4-4a61-af40-8755507bde44_kmkw1nvan8826!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a749701-e9f4-4a61-af40-8755507bde44</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=49pym</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-22T17:22:55.350</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-22T17:22:29.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-08-22T17:22:10.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-22T17:21:10.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-22T17:21:49.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-08-22T17:21:29.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-08-22T17:20:11.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-08-22T17:19:49.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\FacebookMessengerUWP\FacebookMessengerUWP\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-22T17:22:55.174</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
